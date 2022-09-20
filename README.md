@@ -8,6 +8,8 @@ Boilerplate used in the Proffesional Smart Contract Development with Hardhat.
 
 > npm install
 
+> setup .env file by using the .env.sample file
+
 ## Commands
 
 > npm run compile
